@@ -1,5 +1,7 @@
 body{
     background-color: white;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 ol{
     margin-left: 0px;
@@ -7,18 +9,8 @@ ol{
     margin-top: 10px;
     padding-top: 10px;
 }
-section {
-    border-top: 2px solid black;
-}
 main {
-    border-top: 2px solid black;
     padding: 10px;
-}
-p {
-    margin: 10px;
-}
-div {
-    border-top: 2px solid black;
 }
 ul {
     margin-left: 0px;
@@ -40,6 +32,5 @@ img {
 
 }
 footer {
-    border-top: 2px solid black;
     padding-top: 20px;
 }
